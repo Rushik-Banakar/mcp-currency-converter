@@ -18,3 +18,25 @@ MCP Server
 Currency API
       ↓
 Response
+
+
+## Demo
+
+This MCP Server integrates with Claude Desktop and provides real-time currency conversion.
+
+Example Prompt:
+Convert 100 USD to INR
+
+Example Response:
+100 USD = 8,350 INR (example value)
+
+## Tech Stack
+
+- Python
+- MCP (Model Context Protocol)
+- Claude Desktop
+- Exchange Rate API
+
+## Author
+
+Rushik Banakar
