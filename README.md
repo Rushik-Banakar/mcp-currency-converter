@@ -11,14 +11,7 @@ A custom MCP Server built using Python that integrates with Claude Desktop and p
 
 ## Architecture
 
-Claude Desktop
-      ↓
-MCP Server
-      ↓
-Currency API
-      ↓
-Response
-
+Claude Desktop -> MCP Server -> Currency API -> Response
 
 ## Demo
 
